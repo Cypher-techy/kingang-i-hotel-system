@@ -1,0 +1,4 @@
+hotel-system/.env.local
+hotel-system/node_modules/
+hotel-system/.next/
+hotel-system/.vercel/
